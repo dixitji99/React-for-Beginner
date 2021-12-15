@@ -11,4 +11,5 @@
 <ul>
 <li>Create an empty folder with name React</li>
 <li>Open VS Code or any other IDE as per your convinience</li>
-<li>
+<li></li>
+</ul>
